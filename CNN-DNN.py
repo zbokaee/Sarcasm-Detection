@@ -33,6 +33,7 @@ class sarcasm_model():
     _vocab_file_path = None
     _input_weight_file_path = None
     _vocab = None
+    
     _line_maxlen = None
 
     def __init__(self):
